@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SH4RKO
+- 👋 Hi, I’m Denilton Ngale
 - 👀 I’m interested in learn more about the dev world
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on your projects and others
