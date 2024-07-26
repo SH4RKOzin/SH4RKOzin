@@ -20,7 +20,6 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div><br>
-
 ### Linguagens mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4RKOzin)](https://github.com/SH4RKOzin/github-readme-stats)
 
