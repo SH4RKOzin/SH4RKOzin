@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4RKOzin)](https://github.com/SH4RKOzin/github-readme-stats)
 
 ### Sobre mim!🙋🏿
-🌱 Estou actualmente estudando: PHP, JavaScript, e Python.
+🌱 Estou actualmente trabalhando como Programador Web.
 
 🧑🏿‍🤝‍🧑🏿 Estou procurando colaborar em projetos fullstack.
 
